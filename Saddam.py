@@ -14,13 +14,7 @@ USAGE = '''
 '''
 
 LOGO = r'''
-	   _____           __    __              
-	  / ___/____ _____/ /___/ /___ _____ ___ 
-	  \__ \/ __ `/ __  / __  / __ `/ __ `__ \
-	 ___/ / /_/ / /_/ / /_/ / /_/ / / / / / /
-	/____/\__,_/\__,_/\__,_/\__,_/_/ /_/ /_/ 
-	https://github.com/OffensivePython/Saddam
-	   https://twitter.com/OffensivePython
+          DDoS NIGGA ventvent :3 indi meow
 '''
 
 HELP = (
